@@ -29,8 +29,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		484D682830232CC10009A334 /* EssentialFeedApp.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = file; path = EssentialFeedApp.xctestplan; sourceTree = "<group>"; };
+		484D682830232CC10009A334 /* EssentialFeedApp.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = EssentialFeedApp.xctestplan; sourceTree = "<group>"; };
 		484D682D3024BE160009A334 /* EssentialFeedAppAPIEndToEndTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EssentialFeedAppAPIEndToEndTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		484D6859302F6AB80009A334 /* CI.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = CI.xctestplan; sourceTree = "<group>"; };
 		489CAC1F2F02F17F0040D24E /* EssentialFeedApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EssentialFeedApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		489CAC2A2F02F17F0040D24E /* EssentialFeedAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EssentialFeedAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -96,6 +97,7 @@
 		489CAC152F02F17E0040D24E = {
 			isa = PBXGroup;
 			children = (
+				484D6859302F6AB80009A334 /* CI.xctestplan */,
 				484D682830232CC10009A334 /* EssentialFeedApp.xctestplan */,
 				489CAC212F02F17F0040D24E /* EssentialFeedApp */,
 				489CAC2E2F02F17F0040D24E /* EssentialFeedAppTests */,
